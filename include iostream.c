@@ -4,6 +4,7 @@ int main() {
     std::cout << "Hello, World!" << std::endl;
     std::cout << "first commit" << std::endl;
     std::cout << "second commit" << std::endl;
+    std::cout << "third commit" << std::endl;
     return 0;
 }
 
